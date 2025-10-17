@@ -1,0 +1,50 @@
+# Large model files
+model_resnet50/
+model_vgg/
+model_vgg.h5
+history_model_nin/
+model_cnn/
+autoencoder_model1/
+sparse_autoencoder/
+
+# Large data files
+*.h5
+*.npy
+
+# Large reports
+UCI_support2_report.json
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Keys
+key
+key.pub
+CUsersfardi.ssh/
+
+# Temporary
+*.tmp
+*.log
+d.txt
+
+# Automation scripts
+check_git.*
+commit_and_push.bat
+git_*.py
+run_*.py
+execute.py
+fix_and_push.py
+clean_git_history.py
+diagnose_and_push.py
+fresh_start.py
+setup.py
