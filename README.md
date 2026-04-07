@@ -1,15 +1,15 @@
 # Medical Machine Learning Analysis
 
-This repository contains machine learning projects for medical data analysis, including classification and regression tasks on healthcare datasets.
+This repository contains some of the tasks carried out during the course of AI2 for medical data analysis, including classification and regression tasks on healthcare datasets. These are some of my very first projects, therefore the coding style is rather crude.
 
 ## Projects
 
 ### 1. Patient Outcome Classification (AI2_project_take_1-2classes.ipynb)
-- **Dataset**: Support2 medical patient data
+- **Dataset**: [Support2](https://archive.ics.uci.edu/dataset/880/support2) medical patient data
 - **Task**: Binary classification of patient outcomes
 - **Methods**: 
-  - Neural Networks (MLP)
-  - Feature engineering and preprocessing
+  - MLP, SVC, Ensemble Method
+  - Feature selection and preprocessing
   - SMOTE for handling class imbalance
   - Cross-validation with StratifiedKFold
 - **Features**: Patient demographics, vital signs, lab values, comorbidities
