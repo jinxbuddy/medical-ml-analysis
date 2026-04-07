@@ -61,13 +61,4 @@ Each notebook is self-contained and can be run independently. The notebooks incl
 - Model training and evaluation
 - Performance visualization
 
-## Results
-
-Models achieve competitive performance on their respective tasks:
-- Patient classification: ~66% accuracy with neural networks
-- Medical charges regression: Evaluated with MSE and MAE metrics
-- Melanoma classification: Multiple CNN architectures with ensemble approach
-
-## Author
-
 AI 2 Course Project - University of Pisa
