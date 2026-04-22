@@ -1,6 +1,6 @@
 # Medical Machine Learning Analysis
 
-This repository contains some of the tasks carried out during the course of AI2 for medical data analysis, including classification and regression tasks on healthcare datasets. These are some of my very first projects, therefore **the coding style is rather crude.** You can read the full report for both of these projects [here](https://drive.google.com/file/d/1wqc_lJrObpMXZTVRfpE5AYMV6lvuRNrk/view?usp=sharing)
+This repository contains some of the tasks carried out during the course of AI2 for medical data analysis, including classification and regression tasks on healthcare datasets. These are some of my very first projects, therefore **the coding style is rather crude.** You can read the full report for both of these projects [here](https://drive.google.com/file/d/1wqc_lJrObpMXZTVRfpE5AYMV6lvuRNrk/view?usp=sharing).
 **Later sometime I will add better comments and compertmentalize the codes writing proper functions.**
 
 ## Projects
