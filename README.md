@@ -64,6 +64,5 @@ The `data/support2.csv` file contains medical patient information with features 
 ## Usage
 
 Each notebook is self-contained and can be run independently. 
-- Performance visualization
 
 AI 2 Course Project - University of Pisa
